@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/x5mhfc7t2pt7i4q6?svg=true)](https://ci.appveyor.com/project/TinitaQA/postman-echo)
